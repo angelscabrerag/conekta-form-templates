@@ -38,13 +38,13 @@ dl {
     dl dd.barcode {
       display: inline-block;
       width: auto;
-      height: auto;
-      margin: 4px 0 4px -8px;
-      padding: 6px 0 2px;
-      border: 1px solid #d7dee2;
-      -moz-border-radius: 3px;
-      -webkit-border-radius: 3px;
-      border-radius: 3px;
+      height: 46px;
+      margin: 4px 0;
+      padding: 0;
+      border: 1px solid #8993A0;
+      border-radius: 2px;
+      -moz-border-radius: 2px;
+      -webkit-border-radius: 2px;
       background: white; }
 
 /*  Structure */
